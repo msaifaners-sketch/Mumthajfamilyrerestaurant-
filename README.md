@@ -40,10 +40,7 @@ Tanjore, Tamil Nadu, India
 - Online Orders
 - Home Delivery
 
-## 📞 Contact Us
 
-- Phone: +91 XXXXX XXXXX
-- Email: info@mumhtajrestaurant.com
 
 ## 🌐 Website Features
 
